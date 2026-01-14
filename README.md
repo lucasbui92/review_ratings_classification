@@ -11,11 +11,11 @@ and focuses on evaluation, comparison, and interpretation of text representation
 
 ## Repository structure
 
-- data/: Training, validation, and test datasets
-- review_rating_classification.ipynb: Main notebook for preprocessing, training, and evaluation
-- models/: Trained models and corresponding test outputs
-- report.pdf: Project report
-- presentation.pdf: Presentation slides
+- **data/**: Training, validation, and test datasets
+- **review_rating_classification.ipynb**: Main notebook for preprocessing, training, and evaluation
+- **models/**: Trained models and corresponding test outputs
+- **report.pdf**: Project report
+- **presentation.pdf**: Presentation slides
 
 ## Notes on execution
 
